@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly)
 ![Seaborn](https://img.shields.io/badge/Seaborn-9cf?style=for-the-badge)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge)
+![Requests](https://img.shields.io/badge/Requests-20232A?style=for-the-badge)
+
