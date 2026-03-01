@@ -27,3 +27,9 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
+![React](https://img.shields.io/badge/React-19-blue?logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-Enabled-3178C6?logo=typescript)
+![Vite](https://img.shields.io/badge/Vite-Build_Tool-646CFF?logo=vite)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v4-38B2AC?logo=tailwind-css)
+![Motion](https://img.shields.io/badge/Motion-Animations-black)
+![Lucide](https://img.shields.io/badge/Lucide-Icons-gray)
