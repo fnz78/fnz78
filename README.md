@@ -36,7 +36,20 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+## Github Stats
+![fnz78's GitHub stats](https://github-readme-stats.vercel.app/api?username=fnz78&show_icons=true&theme=radical)
 
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=fnz78&theme=radical)
+
+---
+
+## 📊 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fnz78&layout=compact&theme=radical)
 
 
 ---
@@ -46,4 +59,4 @@ Here are some ideas to get you started:
 - LinkedIn: https://www.linkedin.com/in /farhannazimfnz-402122306
 
 ---
-⭐️ From Fnz78
+⭐️ From fnz78
