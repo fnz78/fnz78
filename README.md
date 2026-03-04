@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ---
 ## Github Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fnz78&show_icons=true&theme=radical)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fnz78&show_icons=true&theme=radical)](https://github.com/fnz78)
 
 ## 🔥 GitHub Streak
 
