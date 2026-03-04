@@ -47,7 +47,10 @@ Here are some ideas to get you started:
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in /farhannazimfnz-402122306
+<a href="https://www.linkedin.com/in/farhannazimfnz-402122306">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
 
 ---
 ⭐️ From fnz78
