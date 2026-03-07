@@ -6,7 +6,9 @@
 🚀 Currently learning Machine Learning and Data Science  
 📍 India
 ---
+## Skills
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 ---
 ## 🔥 GitHub Streak
 
