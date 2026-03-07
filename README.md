@@ -49,15 +49,8 @@
 
 ![Snake animation](https://github.com/fnz78/fnz78/blob/output/github-contribution-grid-snake.svg)
 ---
-## 📫 Connect With Me
+## 🔗 Connect With Me
 
-<a href="https://www.linkedin.com/in/farhannazimfnz-402122306">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-
-## 📫 Contact Me
-
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhannazimfnz@gmail.com)
-
----
-⭐️ From fnz78
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-farhannazimfnz--402122306-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhannazimfnz-402122306)
+[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhannazimfnz@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-fnz78-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fnz78)
