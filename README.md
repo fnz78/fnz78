@@ -49,11 +49,15 @@ Here are some ideas to get you started:
 
 [![Fnz78's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fnz78&theme=react-dark)](https://github.com/fnz78)
 ---
+## 🧠 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fnz78&layout=donut&theme=tokyonight)
+---
 
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/fnz78/fnz78/blob/output/github-contribution-grid-snake.svg)
-
+---
 ## 📫 Connect With Me
 
 <a href="https://www.linkedin.com/in/farhannazimfnz-402122306">
