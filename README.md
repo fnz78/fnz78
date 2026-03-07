@@ -45,6 +45,9 @@ Here are some ideas to get you started:
 
 
 ---
+## 📈 GitHub Activity Graph
+
+[![Fnz78's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fnz78&theme=react-dark)](https://github.com/fnz78)
 
 ## 📫 Connect With Me
 
