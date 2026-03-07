@@ -33,7 +33,7 @@
 ---
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=fnz78&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=fnz78&theme=dracula)
 
 
 
