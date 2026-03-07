@@ -29,9 +29,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
-## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fnz78&show_icons=true&theme=tokyonight)
 ---
 ## 🔥 GitHub Streak
 
@@ -56,7 +54,9 @@
 <a href="https://www.linkedin.com/in/farhannazimfnz-402122306">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
+## 📫 Contact Me
 
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhannazimfnz@gmail.com)
 
 ---
 ⭐️ From fnz78
