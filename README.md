@@ -54,6 +54,7 @@
 <a href="https://www.linkedin.com/in/farhannazimfnz-402122306">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
+
 ## 📫 Contact Me
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhannazimfnz@gmail.com)
