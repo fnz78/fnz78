@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fnz78&show_icons=true&theme=radical)
+
 ---
 ## 🔥 GitHub Streak
 
@@ -51,9 +51,7 @@ Here are some ideas to get you started:
 
 [![Fnz78's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fnz78&theme=react-dark)](https://github.com/fnz78)
 ---
-## 🧠 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fnz78&layout=donut&theme=tokyonight)
 ---
 
 ## 🐍 Contribution Snake
