@@ -37,8 +37,10 @@
 
 
 ---
-## 📈 Github Activity Graph
-[![Fnz78's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fnz78&theme=react-dark)](https://github.com/fnz78)
+
+## 📈 GitHub Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fnz78&theme=tokyo-night)](https://github.com/fnz78)
 ---
 
 ---
