@@ -6,7 +6,7 @@
 🚀 Currently learning Machine Learning and Data Science  
 📍 India
 ---
-## Skills
+## SKILLS
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -31,30 +31,30 @@
 ![Lucide](https://img.shields.io/badge/Lucide-Icons-gray?style=for-the-badge)
 
 ---
-## 🔥 GitHub Streak
+## 🔥 GITHUB STREAK
 ![GitHub Streak](https://streak-stats.demolab.com/?user=fnz78&theme=dracula)
 
 
 
 ---
-## 📈 GitHub Activity Graph
+## 📈 GITHUB ACTIVITY GRAPH
 
 [![Fnz78's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fnz78&theme=react-dark)](https://github.com/fnz78)
 ---
 
 ---
 
-## 🐍 Contribution Snake
+## CONTRIBUTION SNAKE
 
 ![Snake animation](https://github.com/fnz78/fnz78/blob/output/github-contribution-grid-snake.svg)
 ---
-## 📫 Connect With Me
+## 📫 CONNECT WITH ME
 
 <a href="https://www.linkedin.com/in/farhannazimfnz-402122306">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
-## 📫 Contact Me
+## 📫 CONTACT ME
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhannazimfnz@gmail.com)
 
