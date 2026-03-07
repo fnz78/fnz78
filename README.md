@@ -51,7 +51,6 @@ Here are some ideas to get you started:
 ---
 
 ## 🐍 Contribution Snake
-## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/fnz78/fnz78/blob/output/github-contribution-grid-snake.svg)
 
