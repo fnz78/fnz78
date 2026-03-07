@@ -48,6 +48,12 @@ Here are some ideas to get you started:
 ## 📈 GitHub Activity Graph
 
 [![Fnz78's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fnz78&theme=react-dark)](https://github.com/fnz78)
+---
+
+## 🐍 Contribution Snake
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/fnz78/fnz78/blob/output/github-contribution-grid-snake.svg)
 
 ## 📫 Connect With Me
 
