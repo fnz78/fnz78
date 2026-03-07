@@ -38,8 +38,7 @@ Here are some ideas to get you started:
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fnz78&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fnz78&show_icons=true&theme=radical)
 ---
 ## 🔥 GitHub Streak
 
