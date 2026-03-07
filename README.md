@@ -29,9 +29,9 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
-## 🛠️ Skills
+## 📊 GitHub Stats
 
-![My Skills](https://skillicons.dev/icons?i=java,python,mysql,git,github,html,css,js)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fnz78&show_icons=true&theme=tokyonight)
 ---
 ## 🔥 GitHub Streak
 
