@@ -38,10 +38,10 @@ Here are some ideas to get you started:
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
-
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=fnz78&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=fnz78&theme=tokyonight)
+
 
 
 ---
