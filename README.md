@@ -4,6 +4,18 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ADB5&size=28&center=true&vCenter=true&width=800&lines=AI+Developer;Data+Analytics+Enthusiast;Machine+Learning+Builder)
 ---
+## 👨‍💻 About Me
+
+Hi 👋 I'm **Farhan Nazim**
+
+🚀 AI & Data Analytics enthusiast  
+📊 Passionate about turning **data into intelligent solutions**  
+💻 Working with **Python, Machine Learning, and Data Analysis**  
+📚 Currently learning **Advanced Algorithms, Operating Systems & Software Engineering**  
+🌱 Always exploring **AI, Agentic Systems, and Data Science Projects**
+
+⚡ Fun fact: I love building **interactive developer tools and futuristic dashboards**
+---
 ## Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
