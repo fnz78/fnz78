@@ -47,6 +47,9 @@ Hi 👋 I'm **Farhan Nazim**
 ----
 
 
+## 📊 GitHub Stats
+
+![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=fnz78&show_icons=true&theme=tokyonight)
 
 
 
