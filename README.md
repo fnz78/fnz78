@@ -47,9 +47,7 @@ Hi 👋 I'm **Farhan Nazim**
 ----
 
 
-## 📊 GitHub Stats
-
-![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=fnz78&show_icons=true&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=fnz78&color=blue&style=for-the-badge)
 
 
 
