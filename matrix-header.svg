@@ -1,0 +1,87 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+.matrix {
+font-family: monospace;
+font-size: 18px;
+fill: #00ff41;
+opacity: 0.8;
+}
+
+.title {
+font: bold 46px 'Segoe UI', sans-serif;
+fill: white;
+}
+
+.subtitle {
+font: 22px 'Segoe UI', sans-serif;
+fill: #cbd5e1;
+}
+</style>
+
+<!-- Background -->
+<rect width="1200" height="320" fill="black"/>
+
+<!-- Matrix rain columns -->
+
+<text x="50" y="-20" class="matrix">
+101010101010101010
+<animate attributeName="y" from="-200" to="400" dur="5s" repeatCount="indefinite"/>
+</text>
+
+<text x="150" y="-50" class="matrix">
+110101010101010101
+<animate attributeName="y" from="-200" to="400" dur="4s" repeatCount="indefinite"/>
+</text>
+
+<text x="250" y="-80" class="matrix">
+101011010101010101
+<animate attributeName="y" from="-200" to="400" dur="6s" repeatCount="indefinite"/>
+</text>
+
+<text x="350" y="-60" class="matrix">
+010101010101010101
+<animate attributeName="y" from="-200" to="400" dur="4.5s" repeatCount="indefinite"/>
+</text>
+
+<text x="450" y="-100" class="matrix">
+101101010101010101
+<animate attributeName="y" from="-200" to="400" dur="5.5s" repeatCount="indefinite"/>
+</text>
+
+<text x="550" y="-40" class="matrix">
+010101010101010101
+<animate attributeName="y" from="-200" to="400" dur="4.8s" repeatCount="indefinite"/>
+</text>
+
+<text x="650" y="-70" class="matrix">
+101010110101010101
+<animate attributeName="y" from="-200" to="400" dur="5.3s" repeatCount="indefinite"/>
+</text>
+
+<text x="750" y="-30" class="matrix">
+101010101011010101
+<animate attributeName="y" from="-200" to="400" dur="4.6s" repeatCount="indefinite"/>
+</text>
+
+<text x="850" y="-90" class="matrix">
+010101010101010101
+<animate attributeName="y" from="-200" to="400" dur="5.2s" repeatCount="indefinite"/>
+</text>
+
+<text x="950" y="-60" class="matrix">
+101010101010110101
+<animate attributeName="y" from="-200" to="400" dur="4.9s" repeatCount="indefinite"/>
+</text>
+
+<!-- Title -->
+<text x="600" y="160" text-anchor="middle" class="title">
+Hi 👋 I'm Farhan Nazim
+</text>
+
+<!-- Subtitle -->
+<text x="600" y="210" text-anchor="middle" class="subtitle">
+AI • Data Analytics • Machine Learning
+</text>
+
+</svg>
