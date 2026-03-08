@@ -1,11 +1,4 @@
 
-## Hi there 👋 i'm fnz78
-
-🎓 MSc Computer Science Student  
-💻 Interested in AI, Data Analytics, and Software Development  
-🚀 Currently learning Machine Learning and Data Science  
-📍 India
----
 <img src="matrix-header.svg" width="100%">
 
 
