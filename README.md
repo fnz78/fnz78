@@ -5,7 +5,8 @@
 💻 Interested in AI, Data Analytics, and Software Development  
 🚀 Currently learning Machine Learning and Data Science  
 📍 India
-
+---
+<img src="header.svg" width="100%">
 ---
 ## Skills
 
