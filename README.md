@@ -15,7 +15,7 @@ Hi 👋 I'm **Farhan Nazim**
 📚 Currently learning **Advanced Algorithms, Operating Systems & Software Engineering**  
 🌱 Always exploring **AI, Agentic Systems, and Data Science Projects**
 
-⚡ Fun fact: I love building **interactive developer tools and futuristic dashboards**
+⚡ Fun fact : I love building **interactive developer tools and futuristic dashboards**
 
 ---
 ## Skills
