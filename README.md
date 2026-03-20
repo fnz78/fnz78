@@ -52,6 +52,11 @@ Hi 👋 I'm **Farhan Nazim**
 
 ---
 
+## 💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fnz78&layout=compact&theme=tokyonight)
+
+---
+
 ## Contribution Snake
 
 ![Snake animation](https://github.com/fnz78/fnz78/blob/output/github-contribution-grid-snake.svg)
