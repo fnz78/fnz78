@@ -43,17 +43,18 @@ Hi 👋 I'm **Farhan Nazim**
 ![Lucide](https://img.shields.io/badge/Lucide-Icons-gray?style=for-the-badge)
 
 ---
-## 🔥 Github Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=fnz78&theme=dracula)
-
-----
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fnz78&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fnz78&show_icons=true&theme=dracula)
+
+---
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=fnz78&theme=dracula)
 
 ---
 
 ## 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fnz78&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fnz78&layout=compact&theme=dracula)
 
 ---
 
