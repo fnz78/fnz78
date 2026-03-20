@@ -2,8 +2,11 @@
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ADB5&size=28&center=true&vCenter=true&width=800&lines=AI+Developer;Data+Analytics+Enthusiast;Machine+Learning+Builder)
+
 ---
+
 ![Profile Views](https://komarev.com/ghpvc/?username=fnz78&color=blue&style=for-the-badge)
+
 ---
 ## 👨‍💻 About Me
 
@@ -62,6 +65,8 @@ Hi 👋 I'm **Farhan Nazim**
 
 ![Snake animation](https://github.com/fnz78/fnz78/blob/output/github-contribution-grid-snake.svg)
 ---
+
+
 ---
 
 ## 📈 GitHub Activity Graph
@@ -69,12 +74,8 @@ Hi 👋 I'm **Farhan Nazim**
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fnz78&theme=dracula)](https://github.com/fnz78)
 
 ----
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fnz78&theme=dracula&no-frame=true&row=1&column=6" />
-</p>
 
----
+
 ----
 ## 🔗 Connect With Me
 
