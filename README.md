@@ -47,6 +47,8 @@ Hi 👋 I'm **Farhan Nazim**
 ![GitHub Streak](https://streak-stats.demolab.com/?user=fnz78&theme=dracula)
 
 ----
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fnz78&show_icons=true&theme=tokyonight)
 
 ---
 
