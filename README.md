@@ -66,8 +66,8 @@ Hi 👋 I'm **Farhan Nazim**
 
 ## 📈 GitHub Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fnz78&theme=tokyo-night)](https://github.com/fnz78)
----
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fnz78&theme=dracula)](https://github.com/fnz78)
+
 
 ## 🔗 Connect With Me
 
