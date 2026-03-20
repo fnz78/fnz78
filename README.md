@@ -68,7 +68,14 @@ Hi 👋 I'm **Farhan Nazim**
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fnz78&theme=dracula)](https://github.com/fnz78)
 
+----
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fnz78&theme=dracula&no-frame=true&row=1&column=6" />
+</p>
 
+---
+----
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-farhannazimfnz--402122306-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhannazimfnz-402122306)
