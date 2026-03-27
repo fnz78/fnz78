@@ -47,10 +47,6 @@ Hi 👋 I'm **Farhan Nazim**
 ![Lucide](https://img.shields.io/badge/Lucide-Icons-gray?style=for-the-badge)
 
 ---
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fnz78&show_icons=true&theme=dracula)
-
-
 ---
 
 ## 🔥 Streak Stats
