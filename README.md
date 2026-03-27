@@ -50,10 +50,12 @@ Hi 👋 I'm **Farhan Nazim**
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fnz78&show_icons=true&theme=dracula)
 
+
 ---
 
 ## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=fnz78&theme=dracula)
+
 
 ---
 
