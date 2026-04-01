@@ -50,8 +50,6 @@ Hi 👋 I'm **Farhan Nazim**
 ---
 ## 🔥 Most Used Languages
 
-
-
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fnz78&theme=dracula)
 
 ---
@@ -61,7 +59,9 @@ Hi 👋 I'm **Farhan Nazim**
 
 
 ---
+## 📊 GitHub Stats
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fnz78&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true)
 
 ---
 
