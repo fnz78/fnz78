@@ -45,6 +45,9 @@
 ![Lucide](https://img.shields.io/badge/Lucide-Icons-gray?style=for-the-badge)
 
 ---
+## 🔥 Most Used Languages
+
+![Languages](./stats.svg)
 
 ---
 
