@@ -47,7 +47,7 @@
 ---
 ## 🔥 Most Used Languages
 
-![Languages](./stats.svg)
+![Languages](https://raw.githubusercontent.com/fnz78/fnz78/main/stats.svg)
 
 ---
 
