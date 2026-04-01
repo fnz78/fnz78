@@ -48,6 +48,10 @@ Hi 👋 I'm **Farhan Nazim**
 ![Lucide](https://img.shields.io/badge/Lucide-Icons-gray?style=for-the-badge)
 
 ---
+## 🔥 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fnz78&layout=compact&theme=tokyonight)
+
 ---
 
 ## 🔥 Streak Stats
