@@ -61,7 +61,7 @@ Hi 👋 I'm **Farhan Nazim**
 ---
 ## 📊 GitHub Stats
 
-![GitHub stats]<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fnz78&show_icons=true&theme=dracula" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fnz78&show_icons=true&theme=dracula" />
 
 ---
 
@@ -71,8 +71,6 @@ Hi 👋 I'm **Farhan Nazim**
 
 ---
 
-
----
 
 ## 📈 GitHub Activity Graph
 
