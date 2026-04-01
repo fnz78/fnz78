@@ -4,7 +4,6 @@
 
 ---
 
-
 ![Profile Views](https://komarev.com/ghpvc/?username=fnz78&color=blue&style=for-the-badge)
 
 ---
@@ -45,18 +44,18 @@
 ![Lucide](https://img.shields.io/badge/Lucide-Icons-gray?style=for-the-badge)
 
 ---
-## 🔥 Most Used Languages
+## Most Used Languages
 
 ![Languages](https://raw.githubusercontent.com/fnz78/fnz78/main/stats.svg)
 
 ---
 
-## 🔥 Streak Stats
+## Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=fnz78&theme=dracula)
 
 
 ---
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fnz78&show_icons=true&theme=dracula" />
 
@@ -69,13 +68,13 @@
 ---
 
 
-## 📈 GitHub Activity Graph
+##  GitHub Activity Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fnz78&theme=dracula)](https://github.com/fnz78)
 
 ----
 
-## 🔗 Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-farhannazimfnz--402122306-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhannazimfnz-402122306)
 [![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhannazimfnz@gmail.com)
