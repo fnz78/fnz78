@@ -11,16 +11,21 @@
 
 ## 👨‍💻 About Me
 
-Hi 👋 I'm **Farhan Nazim**
+<h1 align="center">Hi 👋, I'm Farhan Nazim</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=22&center=true&vCenter=true&width=500&lines=AI+%26+Data+Analytics+Enthusiast;Turning+Data+into+Intelligent+Solutions;Python+%7C+Machine+Learning+%7C+Data+Science;Building+Futuristic+Dashboards+%F0%9F%9A%80" />
+</p>
+
+---
 
 🚀 AI & Data Analytics enthusiast  
 📊 Passionate about turning **data into intelligent solutions**  
 💻 Working with **Python, Machine Learning, and Data Analysis**  
 📚 Currently learning **Advanced Algorithms, Operating Systems & Software Engineering**  
-🌱 Always exploring **AI, Agentic Systems, and Data Science Projects**
+🌱 Exploring **AI, Agentic Systems, and Data Science Projects**  
 
-⚡ Fun fact : I love building **interactive developer tools and futuristic dashboards**
+⚡ Fun fact: I love building **interactive developer tools and futuristic dashboards**
 
 ---
 ## Skills
