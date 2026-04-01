@@ -61,13 +61,14 @@ Hi 👋 I'm **Farhan Nazim**
 ---
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fnz78&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub stats]<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fnz78&show_icons=true&theme=dracula" />
 
 ---
 
 ## Contribution Snake
 
 ![Snake animation](https://github.com/fnz78/fnz78/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 
