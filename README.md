@@ -46,14 +46,9 @@
 
 ---
 
-<h2 align="center"> Most Used Languages</h2>
+## Top languages
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnz78&layout=donut&theme=dracula&hide_border=true" 
-    height="250"
-  />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fnz78&layout=compact&theme=dracula)
 
 ---
 
