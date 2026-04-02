@@ -46,9 +46,9 @@
 
 ---
 
-## Top languages
+##  Most Used Languages
 
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fnz78&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fnz78&layout=compact&theme=radical)
 
 ---
 
