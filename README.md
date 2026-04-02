@@ -9,6 +9,7 @@
 ---
 
 ---
+## About Me
 
 🚀 AI & Data Analytics enthusiast  
 📊 Passionate about turning **data into intelligent solutions**  
