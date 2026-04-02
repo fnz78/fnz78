@@ -45,7 +45,7 @@
 ![Lucide](https://img.shields.io/badge/Lucide-Icons-gray?style=for-the-badge)
 
 ---
-## ## 🚀 Top Languages
+## Top Languages
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fnz78&theme=dracula)
 
