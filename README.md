@@ -56,7 +56,7 @@
   display: inline-block;
 ">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fnz78&theme=dracula"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/languages?username=fnz78&theme=dracula"
     style="
       border-radius: 12px;
       transform: perspective(1000px) rotateX(4deg);
