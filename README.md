@@ -47,7 +47,18 @@
 ---
 ## Most Used Languages
 
-
+<div align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fnz78&theme=dracula"
+    style="
+      border-radius: 15px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.6);
+      transition: transform 0.4s ease, box-shadow 0.4s ease;
+    "
+    onmouseover="this.style.transform='scale(1.05) rotateX(8deg) rotateY(-8deg)'"
+    onmouseout="this.style.transform='scale(1) rotateX(0deg) rotateY(0deg)'"
+  />
+</div>
 ---
 
 ## Streak Stats
