@@ -84,3 +84,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-farhannazimfnz--402122306-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhannazimfnz-402122306)
 [![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhannazimfnz@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-fnz78-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fnz78)
+[![HackerRank](https://img.shields.io/badge/HackerRank-farhannazimfnz-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/farhannazimfnz)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-fnz79-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/fnz79/)
