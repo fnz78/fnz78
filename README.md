@@ -21,36 +21,31 @@
 
 ---
 ## Skills
- ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white)
-
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-black?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-black?style=for-the-badge)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-black?style=for-the-badge)
 ![Requests](https://img.shields.io/badge/Requests-black?style=for-the-badge)
-
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
 ![Jupyter](https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS_Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
-
 ![Vite](https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)
-
 ![Motion](https://img.shields.io/badge/Motion-black?style=for-the-badge)
 ![Lucide](https://img.shields.io/badge/Lucide-black?style=for-the-badge)
 
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white)
+
 ---
 
 ##  Most Used Languages
