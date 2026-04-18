@@ -65,7 +65,8 @@
     <img src="https://streak-stats.demolab.com?user=fnz78&hide_border=true" />
   </picture>
 </p>
----
+
+----
 
 ## GitHub Stats
 
