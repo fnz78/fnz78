@@ -79,18 +79,29 @@
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fnz78&show_icons=true&hide_border=true" />
   </picture>
 </p>
----
+
+----
 
 ## Contribution Snake
 
 ![Snake animation](https://github.com/fnz78/fnz78/blob/output/github-contribution-grid-snake.svg)
 
----
+----
 
 
 ##  GitHub Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fnz78&theme=dracula)](https://github.com/fnz78)
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=fnz78&bg_color=000000&color=FFFFFF&line=FFFFFF&point=AAAAAA&area=true&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=fnz78&bg_color=FFFFFF&color=000000&line=000000&point=555555&area=true&hide_border=true"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fnz78&hide_border=true" />
+  </picture>
+</p>
 
 ----
 
