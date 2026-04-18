@@ -1,12 +1,12 @@
 <img src="matrix-header.svg" width="100%">
 
----
+----
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ADB5&size=28&center=true&vCenter=true&width=800&lines=AI+Developer;Data+Analytics+Enthusiast;Machine+Learning+Builder)
 
 ---
 [![Profile Views](https://komarev.com/ghpvc/?username=fnz78&style=for-the-badge&color=000000&label=VIEWS)](https://github.com/fnz78)
 
----
+----
 ## About Me
 
 ✧ AI & Data Analytics enthusiast  
@@ -17,7 +17,7 @@
 
 ✧ Fun fact: I love building **interactive developer tools and futuristic dashboards**
 
----
+----
 ## Skills
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white)
@@ -44,23 +44,22 @@
 ![Lucide](https://img.shields.io/badge/Lucide-black?style=for-the-badge)
 
 
----
+----
 
-##  Most Used Languages
+## Most Used Languages
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fnz78&layout=compact&langs_count=10&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF"/>
+      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fnz78&layout=compact&langs_count=10&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&cache_seconds=1800"/>
     <source media="(prefers-color-scheme: light)" 
-      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fnz78&layout=compact&langs_count=10&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000"/>
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fnz78&layout=compact&langs_count=10&hide_border=true" />
+      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fnz78&layout=compact&langs_count=10&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000&cache_seconds=1800"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fnz78&layout=compact&langs_count=10&hide_border=true&cache_seconds=1800" />
   </picture>
 </p>
 
 
-
----
+----
 
 ## Streak Stats
 <p align="center">
