@@ -47,17 +47,14 @@
 
 ---
 
-## 🧠 Most Used Languages
+##  Most Used Languages
 
 <p align="center">
   <picture>
-    <!-- Dark Mode -->
     <source media="(prefers-color-scheme: dark)" 
       srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fnz78&layout=compact&langs_count=10&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF"/>
-    <!-- Light Mode -->
     <source media="(prefers-color-scheme: light)" 
       srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fnz78&layout=compact&langs_count=10&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000"/>
-    <!-- Fallback -->
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fnz78&layout=compact&langs_count=10&hide_border=true" />
   </picture>
 </p>
