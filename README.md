@@ -1,4 +1,4 @@
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/77c57f9f-6687-41c2-af00-ecb392e92a01" /><img src="matrix-header.svg" width="100%">
+<img src="matrix-header.svg" width="100%">
 
 ---
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ADB5&size=28&center=true&vCenter=true&width=800&lines=AI+Developer;Data+Analytics+Enthusiast;Machine+Learning+Builder)
