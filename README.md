@@ -4,15 +4,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ADB5&size=28&center=true&vCenter=true&width=800&lines=AI+Developer;Data+Analytics+Enthusiast;Machine+Learning+Builder)
 
 ---
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://komarev.com/ghpvc/?username=fnz78&color=000000&style=for-the-badge&label=VIEWS"/>
-    <source media="(prefers-color-scheme: light)" 
-      srcset="https://komarev.com/ghpvc/?username=fnz78&color=FFFFFF&style=for-the-badge&label=VIEWS"/>
-    <img src="https://komarev.com/ghpvc/?username=fnz78&style=for-the-badge&label=VIEWS"/>
-  </picture>
-</p>
+[![Profile Views](https://img.shields.io/badge/VIEWS-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fnz78)
 
 ---
 ## About Me
@@ -118,9 +110,11 @@
 ----
 
 ##  Connect With Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhannazimfnz-402122306)
 [![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhannazimfnz@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fnz78)
 [![HackerRank](https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/farhannazimfnz)
 [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/fnz79/)
+
 ----
