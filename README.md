@@ -10,14 +10,13 @@
 ---
 ## About Me
 
+✧ AI & Data Analytics enthusiast  
+✧ Passionate about turning **data into intelligent solutions**  
+✧ Working with **Python, Machine Learning, and Data Analysis**  
+✧ Currently learning **Advanced Algorithms, Operating Systems & Software Engineering**  
+✧ Exploring **AI, Agentic Systems, and Data Science Projects**  
 
-🚀 AI & Data Analytics enthusiast  
-📊 Passionate about turning **data into intelligent solutions**  
-💻 Working with **Python, Machine Learning, and Data Analysis**  
-📚 Currently learning **Advanced Algorithms, Operating Systems & Software Engineering**  
-🌱 Exploring **AI, Agentic Systems, and Data Science Projects**  
-
-⚡ Fun fact: I love building **interactive developer tools and futuristic dashboards**
+✧ Fun fact: I love building **interactive developer tools and futuristic dashboards**
 
 ---
 ## Skills
