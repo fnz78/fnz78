@@ -4,8 +4,15 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ADB5&size=28&center=true&vCenter=true&width=800&lines=AI+Developer;Data+Analytics+Enthusiast;Machine+Learning+Builder)
 
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=fnz78&color=000000&style=for-the-badge&label=VIEWS)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://komarev.com/ghpvc/?username=fnz78&color=000000&style=for-the-badge&label=VIEWS"/>
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://komarev.com/ghpvc/?username=fnz78&color=FFFFFF&style=for-the-badge&label=VIEWS"/>
+    <img src="https://komarev.com/ghpvc/?username=fnz78&style=for-the-badge&label=VIEWS"/>
+  </picture>
+</p>
 
 ---
 ## About Me
