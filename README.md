@@ -5,7 +5,7 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=fnz78&color=000000&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=fnz78&color=000000&style=for-the-badge&label=)
 
 ---
 ## About Me
