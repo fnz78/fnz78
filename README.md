@@ -88,10 +88,7 @@
 
 ----
 
-
 ##  GitHub Activity Graph
-
-## 📈 GitHub Activity Graph
 
 <p align="center">
   <picture>
