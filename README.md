@@ -51,10 +51,10 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fnz78&layout=compact&langs_count=10&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&cache_seconds=1800"/>
+      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fnz78&layout=compact&langs_count=10&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&cache_seconds=60"/>
     <source media="(prefers-color-scheme: light)" 
-      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fnz78&layout=compact&langs_count=10&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000&cache_seconds=1800"/>
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fnz78&layout=compact&langs_count=10&hide_border=true&cache_seconds=1800" />
+      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fnz78&layout=compact&langs_count=10&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000&cache_seconds=60"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fnz78&layout=compact&langs_count=10&hide_border=true&cache_seconds=60" />
   </picture>
 </p>
 
