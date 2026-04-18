@@ -56,7 +56,8 @@
 ---
 
 ## Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=fnz78&hide_border=true&background=transparent&ring=444444&fire=444444&currStreakLabel=222222&sideLabels=444444&dates=888888&stroke=444444)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=fnz78&hide_border=true&background=transparent&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&dates=666666&stroke=000000)
 
 ---
 ##  GitHub Stats
