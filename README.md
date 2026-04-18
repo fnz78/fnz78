@@ -66,10 +66,20 @@
   </picture>
 </p>
 ---
+
 ##  GitHub Stats
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fnz78&show_icons=true&theme=dracula" />
+## 📊 GitHub Stats
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=fnz78&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=fnz78&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000&icon_color=000000"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fnz78&show_icons=true&hide_border=true" />
+  </picture>
+</p>
 ---
 
 ## Contribution Snake
