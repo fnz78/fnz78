@@ -67,9 +67,7 @@
 </p>
 ---
 
-##  GitHub Stats
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <picture>
