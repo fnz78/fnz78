@@ -56,8 +56,7 @@
 ---
 
 ## Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=fnz78&theme=dracula)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=fnz78&theme=default&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&stroke=FFFFFF)
 
 ---
 ##  GitHub Stats
