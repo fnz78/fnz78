@@ -4,6 +4,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ADB5&size=28&center=true&vCenter=true&width=800&lines=AI+Developer;Data+Analytics+Enthusiast;Machine+Learning+Builder)
 
 ---
+
 [![Profile Views](https://komarev.com/ghpvc/?username=fnz78&style=for-the-badge&color=000000&label=VIEWS)](https://github.com/fnz78)
 
 ----
