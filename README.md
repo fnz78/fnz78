@@ -103,17 +103,9 @@
   />
 </p>
 
----
 
-## Random Dev Quote
-
-<p align="center">
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
-    alt="Random Dev Quote"
-  />
-</p>
 ----
+
 ## Contribution Snake
 
 ![Snake animation](https://github.com/fnz78/fnz78/blob/output/github-contribution-grid-snake.svg)
