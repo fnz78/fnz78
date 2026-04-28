@@ -69,13 +69,26 @@
 ----
 
 ## Streak Stats
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://streak-stats.demolab.com?user=fnz78&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&stroke=FFFFFF"/>
-    <source media="(prefers-color-scheme: light)" 
-      srcset="https://streak-stats.demolab.com?user=fnz78&theme=default&hide_border=true&background=FFFFFF&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&dates=555555&stroke=000000"/>
-    <img src="https://streak-stats.demolab.com?user=fnz78&hide_border=true" />
+    <!-- Dark Mode -->
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.demolab.com?user=fnz78&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&stroke=FFFFFF"
+    />
+
+    <!-- Light Mode -->
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://streak-stats.demolab.com?user=fnz78&hide_border=true&background=FFFFFF&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&dates=555555&stroke=000000"
+    />
+
+    <!-- Fallback -->
+    <img
+      src="https://streak-stats.demolab.com?user=fnz78&hide_border=true&background=FFFFFF&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&dates=555555&stroke=000000"
+      alt="GitHub Streak"
+    />
   </picture>
 </p>
 
