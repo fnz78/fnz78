@@ -94,10 +94,25 @@
 </p>
 
 ----
-##  GitHub Trophies
+### GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=fnz78&theme=onedark&no-frame=true&no-bg=true&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=fnz78&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"
+    alt="GitHub Trophies"
+  />
+</p>
 
+---
+
+## Random Dev Quote
+
+<p align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
+    alt="Random Dev Quote"
+  />
+</p>
 ----
 ## Contribution Snake
 
