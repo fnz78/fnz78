@@ -29,7 +29,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-black?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-black?style=for-the-badge)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-black?style=for-the-badge)
