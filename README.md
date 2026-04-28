@@ -103,7 +103,6 @@
   />
 </p>
 
-
 ----
 
 ## Contribution Snake
@@ -125,8 +124,11 @@
 </p>
 
 ----
-##  3D Contribution Graph
+##  3D Contributions
 
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%">
+</p>
 
 ----
 
