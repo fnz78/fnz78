@@ -49,7 +49,6 @@
 ![Motion](https://img.shields.io/badge/Motion-black?style=for-the-badge)
 ![Lucide](https://img.shields.io/badge/Lucide-black?style=for-the-badge)
 
-
 ----
 
 ## Most Used Languages
