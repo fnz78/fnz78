@@ -8,6 +8,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=fnz78&style=for-the-badge&color=000000&label=VIEWS)](https://github.com/fnz78)
 
 ----
+
 ## About Me
 
 
