@@ -11,7 +11,6 @@
 
 ## About Me
 
-
 ✧ AI & Data Analytics enthusiast  
 ✧ Passionate about turning **data into intelligent solutions**  
 ✧ Working with **Python, Machine Learning, and Data Analysis**  
