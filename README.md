@@ -52,6 +52,7 @@
 ![Lucide](https://img.shields.io/badge/Lucide-black?style=for-the-badge)
 
 ----
+
 ## Most Used Languages
 
 <p align="center">
