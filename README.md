@@ -67,17 +67,19 @@
 
 ----
 ## Streak Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://streak-stats.demolab.com?user=fnz78&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&stroke=FFFFFF"/>
-    <source media="(prefers-color-scheme: light)" 
-      srcset="https://streak-stats.demolab.com?user=fnz78&theme=default&hide_border=true&background=FFFFFF&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&dates=555555&stroke=000000"/>
-    <img src="https://streak-stats.demolab.com?user=fnz78&hide_border=true" />
-  </picture>
-</p>
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com?user=fnz78&hide_border=true&background=FFFFFF00&stroke=808080&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=808080"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://streak-stats.demolab.com?user=fnz78&hide_border=true&background=FFFFFF00&stroke=808080&ring=000000&fire=000000&currStreakNum=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=808080"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=fnz78&hide_border=true&background=FFFFFF00"
+  />
+</picture>
 ----
 
 ## GitHub Stats
