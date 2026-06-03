@@ -66,9 +66,6 @@
 
 
 ----
-
-## Streak Stats
-
 ## Streak Stats
 
 <p align="center">
