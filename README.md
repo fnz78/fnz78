@@ -70,6 +70,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=fnz78&hide_border=true&background=FFFFFF00&stroke=808080&ring=000000&fire=000000&currStreakNum=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=808080" />
 </p>
+
 ----
 
 ## GitHub Stats
