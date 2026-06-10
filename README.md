@@ -65,7 +65,7 @@
 
 ----
 
-<h2 align="center">Streak Stats</h2>
+## Streak
 
 <p align="center">
   <picture>
