@@ -109,10 +109,6 @@
 ![Snake animation](https://github.com/fnz78/fnz78/blob/output/github-contribution-grid-snake.svg)
 
 ----
-##  Pacman Contribution Graph
-
-
-----
 ##  GitHub Activity Graph
 
 <p align="center">
