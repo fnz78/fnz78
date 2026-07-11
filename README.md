@@ -8,7 +8,7 @@
 
 ----
 
-<table>
+<table align="center">
 <tr>
 <td width="50%">
 <img src="assets/ascii_profile_pic.png" width="100%"/>
