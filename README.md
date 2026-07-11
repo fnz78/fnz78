@@ -5,6 +5,15 @@
 ----
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ADB5&size=28&center=true&vCenter=true&width=800&lines=Backend+developer;Data+Analytics+Enthusiast;Machine+Learning+Builder)
 
+
+----
+<table>
+<tr>
+<td width="50%">
+<img src="assets/ascii_profile_pic.png" width="100%"/>
+</td>
+</tr>
+</table>
 ----
 
 
